@@ -1,0 +1,74 @@
+*, before:after, * {
+  margin:0;
+  padding: 0;
+}
+
+div #ref {
+  background-color: #0078d7;
+  padding-top: 1px;
+  width: 100%;
+  height: 20px;
+  /* border-bottom: 1px solid rgb(231,72,86); */
+  color: #f1f1f1;
+  font-size: 12px;
+}
+
+div #ref a {
+  text-decoration: none;
+  font-family: 'Lucida Console';
+  color: rgb(97, 214, 214);
+}
+
+img {
+  width: 15px;
+  height: auto;
+}
+
+#code {
+  font-family: 'Lucida Console';
+  padding-bottom: 10px;
+  font-size: 12px;
+  flex: 1 0 auto;
+}
+
+input {
+  background-color: rgb(12,12,12);
+  border-color: none;
+  color: rgb(97, 214, 214);
+}
+
+#generic {
+  font-family: 'Lucida Console';
+  padding-bottom: 10px;
+  font-size: 12px;
+}
+div #console {
+  padding: 0 10 0 0;
+}
+#description {
+  font-family: 'Lucida Console';
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-size: 12px;
+}
+
+
+#console {
+  background-color: rgb(12,12,12);
+  height: 100%;
+  width: auto;
+}
+
+
+
+.green {
+  color: rgb(19,141,14);
+}
+
+.blue {
+  color: rgb(97, 214, 214);
+}
+
+.red {
+    color: rgb(231,72,86);
+}
